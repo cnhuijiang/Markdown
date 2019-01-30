@@ -5,7 +5,7 @@ Project for markdown challenge
 
 1. [This is google website](https://www.google.com)
 ![Google search logo](https://storage.googleapis.com/gd-wagtail-prod-assets/original_images/evolving_google_identity_share.jpg)
-2. [This is a link for my external link in my github](https://github.com/cnhuijiang/Markdown/blob/master/External%20link)
+2. [This is a link for my external link in my github](https://github.com/cnhuijiang/Markdown/blob/master/External%20link.mkd)
 ![i will show more information about markdown in the external link.mkd](https://github.com/cnhuijiang/Markdown/blob/master/Markdown%20for%20header.png)
 
 ## This is a markdown for expressing code syntax
